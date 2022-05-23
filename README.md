@@ -1,26 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name: Capstone.
 
-> Description the project.
-
+It is a project to challenge me and show my knowledge about javaScript and HTML. Furthermore, to approve the first module of the microverse program. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and Basic JavaScript, 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://pirc25.github.io/Capstone/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -40,17 +33,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Richard Burneo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@pirc25](https://github.com/pirc25)
+- Twitter: [@RichardBurneo](https://twitter.com/RichardBurneo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/richard-burneo-aguilera-1277aa203/)
 
 ## 🤝 Contributing
 
