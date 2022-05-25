@@ -21,6 +21,14 @@ ul{
 }
 
 .main-var{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 60px;
+}
+
+.main-var img {
   display: none;
 }
 
@@ -45,7 +53,6 @@ ul{
   justify-content: space-between;
   align-items: center;
 }
-
 
   .menu-desktop {
   display: flex;
